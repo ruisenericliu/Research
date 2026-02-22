@@ -11,10 +11,14 @@
             "id": "3921dd1abeac28b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10-6-25 Register Tokens"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 10-6-25 Register Tokens"
             }
           }
         ],
@@ -180,11 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54fc952c0dd66ce1",
+  "active": "3921dd1abeac28b4",
   "lastOpenFiles": [
-    "2026-02-22.md",
     "Untitled.canvas",
+    "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
+    "Research_2025/Gen Topics/10-1-25 Image Forcing.md",
+    "Research_2025/Gen Topics/10-01-25 LongLive (Image Generation).md",
+    "Research_2025/Agents/09-01-25 DeepMCPAgent.md",
+    "Research_2025/Agents/9-20-25 LIMI - Less is More for Agency.md",
+    "Research_2025/Agents/09-01-25 ScaleCUA.md",
     "Research_2025/Agents/Source - Agents.md",
+    "Research_2025/Agents/09-01-25 HANRAG.md",
+    "2026-02-22.md",
     "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
     "Research_2025/Stanford TF/Stanford CS 25 V1 Transformers United.md",
     "Research_2025/Stanford TF/Lesson 1 – Attention is All You Need.md",
@@ -201,14 +213,6 @@
     "Research_2025/Sim/05-01 Infinite Mobility.md",
     "Research_2025/Sim/05-01 CAD to Isaac Sim.md",
     "Research_2025/Seg Det Track/Source.md",
-    "Research_2025/Seg Det Track/SAM Lit Review.md",
-    "Research_2025/Seg Det Track/3DGUT - Gaussian Splatting for distorted cameras.md",
-    "Research_2025/Seg Det Track/12-24 DAM4SAM.md",
-    "Research_2025/Seg Det Track/10-01-25 Basketball Player Tracking.md",
-    "Research_2025/Seg Det Track/10-01-25 Auto-labeling.md",
-    "Research_2025/Seg Det Track/09-21-25 SAMWISE.md",
-    "Research_2025/Seg Det Track/09-01-25 MapAnything.md",
-    "Research_2025/Seg Det Track/07-12-25 LiteTracker.md",
     "Research_2025/Stanford TF",
     "Research_2025/Sim",
     "Research_2025/Seg Det Track",

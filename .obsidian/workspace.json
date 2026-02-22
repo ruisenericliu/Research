@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb65825456ba8acd",
+        "id": "b656f0b2c2e231f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0c43a6357cb86057",
+            "id": "3921dd1abeac28b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10-6-25 SimpleVLA-RL"
+              "title": "New tab"
             }
           }
         ]
@@ -156,31 +152,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneNote/Research 2025/Presentations/Industrial Automation (Advertisements).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Industrial Automation (Advertisements)"
-            }
-          },
-          {
-            "id": "55871dce961c0a3c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c43a6357cb86057",
+  "active": "54fc952c0dd66ce1",
   "lastOpenFiles": [
+    "2026-02-22.md",
+    "Untitled.canvas",
     "Research_2025/Agents/Source - Agents.md",
+    "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
     "Research_2025/Stanford TF/Stanford CS 25 V1 Transformers United.md",
     "Research_2025/Stanford TF/Lesson 1 – Attention is All You Need.md",
     "Research_2025/Stanford TF/JH Stanford cutting edge transformers talk.md",
@@ -221,8 +209,6 @@
     "Research_2025/Seg Det Track/09-21-25 SAMWISE.md",
     "Research_2025/Seg Det Track/09-01-25 MapAnything.md",
     "Research_2025/Seg Det Track/07-12-25 LiteTracker.md",
-    "Research_2025/Seg Det Track/07-10-25 AllTracker.md",
-    "Research_2025/Seg Det Track/06-27-25 SplART.md",
     "Research_2025/Stanford TF",
     "Research_2025/Sim",
     "Research_2025/Seg Det Track",

@@ -1,0 +1,2 @@
+[From Zero to Teleop: LeRobot SO](https://www.youtube.com/watch?v=mQ7O73dEDcU)‑101 + Isaac Sim Step‑by‑Step Guide
+ ![Embedded YouTube video](https://www.youtube.com/embed/mQ7O73dEDcU?feature=oembed&autoplay=true)

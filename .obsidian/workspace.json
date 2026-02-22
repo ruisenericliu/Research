@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "a3df89566ebbf4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb65825456ba8acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c43a6357cb86057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-6-25 SimpleVLA-RL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7472e4fe4665dd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "944a849104c50f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c36e261c23fb56d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "534c56c62c00e215",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2abe9b2dc0170476",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.5
+  },
+  "right": {
+    "id": "46dbc08ae5d9ef94",
+    "type": "split",
+    "children": [
+      {
+        "id": "d487894f331538f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637ae3cbaef3277a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OneNote/Research 2025/Presentations/Industrial Automation (Advertisements).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Industrial Automation (Advertisements)"
+            }
+          },
+          {
+            "id": "6485c85a265d217e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OneNote/Research 2025/Presentations/Industrial Automation (Advertisements).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Industrial Automation (Advertisements)"
+            }
+          },
+          {
+            "id": "d2b5339146150130",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6bf922f42fc9729",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54fc952c0dd66ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OneNote/Research 2025/Presentations/Industrial Automation (Advertisements).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Industrial Automation (Advertisements)"
+            }
+          },
+          {
+            "id": "55871dce961c0a3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0c43a6357cb86057",
+  "lastOpenFiles": [
+    "Research_2025/Agents/Source - Agents.md",
+    "Research_2025/Stanford TF/Stanford CS 25 V1 Transformers United.md",
+    "Research_2025/Stanford TF/Lesson 1 – Attention is All You Need.md",
+    "Research_2025/Stanford TF/JH Stanford cutting edge transformers talk.md",
+    "Research_2025/Stanford TF/Deepmind slides.md",
+    "Research_2025/Stanford TF/Andrej Karpathy LLM 101.md",
+    "Research_2025/Sim/Hardware and Simulators.md",
+    "Research_2025/Sim/Gemini Sim.md",
+    "Research_2025/Sim/Drone Demo Repos.md",
+    "Research_2025/Sim/05-13-25 SO-ARM import.md",
+    "Research_2025/Sim/05-13-25 ROSBag to LeRobot.md",
+    "Research_2025/Sim/05-01-25 Solidworks to URDF.md",
+    "Research_2025/Sim/05-01-25 Embodied Gaussians Sim.md",
+    "Research_2025/Sim/05-01 Infinite Mobility.md",
+    "Research_2025/Sim/05-01 CAD to Isaac Sim.md",
+    "Research_2025/Seg Det Track/Source.md",
+    "Research_2025/Seg Det Track/SAM Lit Review.md",
+    "Research_2025/Seg Det Track/3DGUT - Gaussian Splatting for distorted cameras.md",
+    "Research_2025/Seg Det Track/12-24 DAM4SAM.md",
+    "Research_2025/Seg Det Track/10-01-25 Basketball Player Tracking.md",
+    "Research_2025/Seg Det Track/10-01-25 Auto-labeling.md",
+    "Research_2025/Seg Det Track/09-21-25 SAMWISE.md",
+    "Research_2025/Seg Det Track/09-01-25 MapAnything.md",
+    "Research_2025/Seg Det Track/07-12-25 LiteTracker.md",
+    "Research_2025/Seg Det Track/07-10-25 AllTracker.md",
+    "Research_2025/Seg Det Track/06-27-25 SplART.md",
+    "Research_2025/Stanford TF",
+    "Research_2025/Sim",
+    "Research_2025/Seg Det Track",
+    "Research_2025/Robot VLM",
+    "Research_2025/Robot Learning",
+    "Research_2025/Presentations",
+    "Research_2025/Home",
+    "Research_2025/Hardware",
+    "Research_2025/Grasp",
+    "Research_2025/Gen Topics",
+    "Images_2025/Exported image 20260222122856-17.png",
+    "Images_2025/Exported image 20260222122854-16.png",
+    "Images_2025/Exported image 20260222122853-15.png",
+    "Images_2025/Exported image 20260222122852-14.png",
+    "Images_2025/Exported image 20260222122849-13.png",
+    "Images_2025/Exported image 20260222122847-12.png",
+    "Images_2025/Exported image 20260222122845-11.png",
+    "Images_2025/Exported image 20260222122844-9.png",
+    "Images_2025/Exported image 20260222122844-10.png",
+    "Images_2025/Exported image 20260222122843-8.png"
+  ]
+}

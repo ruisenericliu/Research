@@ -1,0 +1,1 @@
+Generalist AI: [https://generalistai.com/blog#sep-24-2025-the-robots-build-now-too](https://generalistai.com/blog#sep-24-2025-the-robots-build-now-too)

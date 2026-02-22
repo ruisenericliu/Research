@@ -1,0 +1,2 @@
+In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using RL policies trained using NVIDIA Robotics' DextrAH-RGB.
+ \> From \<[https://www.linkedin.com/my-items/saved-posts/](https://www.linkedin.com/my-items/saved-posts/)\>

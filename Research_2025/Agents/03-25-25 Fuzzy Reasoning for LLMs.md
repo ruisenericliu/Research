@@ -1,0 +1,11 @@
+Beyond Verification: When LLMs Judge the Unverifiable
+ 
+Reading about TRACT sparked a realization — not all AI outputs can be "proven" like math or code. In well-defined domains, we rely on rule-based checkers like Python or MATLAB. But in fuzzy domains like literature or dialogue, there's no ground truth. That’s where LLM-as-a-judge comes in. TRACT’s two-stage design feels like splitting the LLM: first generate reasoning, then regress the score — almost like extracting an embedding and training a head. It’s a clever workaround for unverifiable spaces, offering a structured, explainable path to reliable judgment.
+ \> From \<[https://www.linkedin.com/my-items/saved-posts/](https://www.linkedin.com/my-items/saved-posts/)\>   
+[https://arxiv.org/abs/2503.04381](https://arxiv.org/abs/2503.04381)
+   
+
+TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
+ 
+The LLM-as-a-judge paradigm uses large language models (LLMs) for automated text evaluation, where a numerical assessment is assigned by an LLM to the input text following scoring rubrics. Existing methods for LLM-as-a-judge use cross-entropy (CE) loss for fine-tuning, which neglects the numeric nature of score prediction. Recent work addresses numerical prediction limitations of LLM fine-tuning through regression-aware fine-tuning, which, however, does not consider chain-of-thought (CoT) reasoning for score prediction. In this paper, we introduce TRACT (Two-stage Regression-Aware fine-tuning with CoT), a method combining CoT reasoning with regression-aware training. TRACT consists of two stages: first, seed LLM is fine-tuned to generate CoTs, which serve as supervision for the second stage fine-tuning. The training objective of TRACT combines the CE loss for learning the CoT reasoning capabilities, and the regression-aware loss for the score prediction. Experiments across four LLM-as-a-judge datasets and two LLMs show that TRACT significantly outperforms existing methods. Extensive ablation studies validate the importance of each component in TRACT.
+ \> From \<[https://arxiv.org/abs/2503.04381](https://arxiv.org/abs/2503.04381)\>

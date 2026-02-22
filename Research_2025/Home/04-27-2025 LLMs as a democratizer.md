@@ -1,0 +1,4 @@
+[This article by Andrej Karpathy explores how](https://link.alphasignal.ai/HuKmas) large language models shift technology adoption from institutions to individuals and why it matters.
+ 
+But at least at this moment in time, we find ourselves in a unique and unprecedented situation in the history of technology. If you go back through various sci-fi you'll see that very few would have predicted that the AI revolution would feature this progression. It was supposed to be a top secret government megabrain project wielded by the generals, not ChatGPT appearing basically overnight and for free on a device already in everyone's pocket. Remember that William Gibson quote _"The future is already here, it's just not evenly distributed"_? Surprise - the future is already here, and it is shockingly distributed. Power to the people. _Personally_, I love it.
+ \> From \<[https://x.com/karpathy/status/1909308143156240538](https://x.com/karpathy/status/1909308143156240538)\>

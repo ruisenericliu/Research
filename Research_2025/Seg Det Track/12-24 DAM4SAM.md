@@ -1,0 +1,4 @@
+[https://github.com/jovanavidenovic/DAM4SAM](https://github.com/jovanavidenovic/DAM4SAM)
+ 
+Memory-based trackers such as SAM2 demonstrate remarkable performance, however still struggle with distractors. We propose a new plug-in distractor-aware memory (DAM) and management strategy that substantially improves tracking robustness. The new model is demonstrated on SAM2.1, leading to DAM4SAM, which sets a new state-of-the-art on six benchmarks, including the most challenging VOT/S benchmarks without additional training. We also propose a new distractor-distilled (DiDi) dataset to better study the distractor problem. See the [preprint](https://arxiv.org/abs/2411.17576) for more details.
+ \> From \<[https://github.com/jovanavidenovic/DAM4SAM?tab=readme-ov-file](https://github.com/jovanavidenovic/DAM4SAM?tab=readme-ov-file)\>

@@ -1,0 +1,6 @@
+Clockwork Brains: How Language Models Learn to Add Like Mathematicians
+ 
+I just read “Language Models Use Trigonometry to Do Addition”, and it blew my mind. Instead of memorizing 0–99 addition like a giant lookup table, LLMs such as GPT-J seem to build a geometric representation of numbers using spiraling helices. Even more fascinating—they perform addition by rotating these helices, following what’s called the “Clock Algorithm.”  
+This isn’t just pattern recognition—it’s emergent computation. Through causal interventions and clever analysis (like PCA and Fourier transforms), the authors show that LLMs are developing internal structures to reason, not just recall.  
+It makes me wonder: when exactly do models switch from memory to mechanism? And can we guide smaller models to do the same with less data? This paper offers both interpretability and inspiration—a glimpse into the mathematical soul of our neural machines.
+ \> From \<[https://www.linkedin.com/my-items/saved-posts/](https://www.linkedin.com/my-items/saved-posts/)\>

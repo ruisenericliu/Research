@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
+                "file": "Research_2025/Agents/Source - Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-6-25 Register Tokens"
+              "title": "Source - Agents"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 316.5
   },
   "right": {
     "id": "46dbc08ae5d9ef94",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
+                "file": "Research_2025/Agents/Source - Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10-6-25 Register Tokens"
+              "title": "Outline of Source - Agents"
             }
           }
         ],
@@ -181,57 +181,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "3921dd1abeac28b4",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Research_2025/Gen Topics/10-6-25 Register Tokens.md",
-    "Research_2025/Gen Topics/10-1-25 Image Forcing.md",
-    "Research_2025/Gen Topics/10-01-25 LongLive (Image Generation).md",
-    "Research_2025/Agents/09-01-25 DeepMCPAgent.md",
-    "Research_2025/Agents/9-20-25 LIMI - Less is More for Agency.md",
-    "Research_2025/Agents/09-01-25 ScaleCUA.md",
-    "Research_2025/Agents/Source - Agents.md",
-    "Research_2025/Agents/09-01-25 HANRAG.md",
-    "2026-02-22.md",
-    "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
-    "Research_2025/Stanford TF/Stanford CS 25 V1 Transformers United.md",
-    "Research_2025/Stanford TF/Lesson 1 – Attention is All You Need.md",
-    "Research_2025/Stanford TF/JH Stanford cutting edge transformers talk.md",
-    "Research_2025/Stanford TF/Deepmind slides.md",
-    "Research_2025/Stanford TF/Andrej Karpathy LLM 101.md",
-    "Research_2025/Sim/Hardware and Simulators.md",
-    "Research_2025/Sim/Gemini Sim.md",
-    "Research_2025/Sim/Drone Demo Repos.md",
-    "Research_2025/Sim/05-13-25 SO-ARM import.md",
-    "Research_2025/Sim/05-13-25 ROSBag to LeRobot.md",
-    "Research_2025/Sim/05-01-25 Solidworks to URDF.md",
-    "Research_2025/Sim/05-01-25 Embodied Gaussians Sim.md",
-    "Research_2025/Sim/05-01 Infinite Mobility.md",
-    "Research_2025/Sim/05-01 CAD to Isaac Sim.md",
-    "Research_2025/Seg Det Track/Source.md",
-    "Research_2025/Stanford TF",
-    "Research_2025/Sim",
-    "Research_2025/Seg Det Track",
-    "Research_2025/Robot VLM",
-    "Research_2025/Robot Learning",
-    "Research_2025/Presentations",
-    "Research_2025/Home",
-    "Research_2025/Hardware",
-    "Research_2025/Grasp",
-    "Research_2025/Gen Topics",
-    "Images_2025/Exported image 20260222122856-17.png",
-    "Images_2025/Exported image 20260222122854-16.png",
-    "Images_2025/Exported image 20260222122853-15.png",
-    "Images_2025/Exported image 20260222122852-14.png",
-    "Images_2025/Exported image 20260222122849-13.png",
-    "Images_2025/Exported image 20260222122847-12.png",
-    "Images_2025/Exported image 20260222122845-11.png",
-    "Images_2025/Exported image 20260222122844-9.png",
-    "Images_2025/Exported image 20260222122844-10.png",
-    "Images_2025/Exported image 20260222122843-8.png"
+    "Research_OneNotes/Research 2026/OneNote_RecycleBin/Open Notebook.onetoc2",
+    "Research_OneNotes/Research 2026/OneNote_RecycleBin/OneNote_DeletedPages.one",
+    "Research_OneNotes/Research 2026/OneNote_RecycleBin/Collections.one",
+    "Research_OneNotes/Research 2025/OneNote_RecycleBin/Open Notebook.onetoc2",
+    "Research_OneNotes/Research 2025/OneNote_RecycleBin/OneNote_DeletedPages.one",
+    "Research_OneNotes/Research 2024/OneNote_RecycleBin/OneNote_DeletedPages.one",
+    "Research_OneNotes/Research 2024/OneNote_RecycleBin/Open Notebook.onetoc2",
+    "Research_OneNotes/Research 2026/Tutorials.one",
+    "Research_OneNotes/Research 2026/Talks + Notes.one",
+    "Research_OneNotes/Research 2026/Stanford Courses.one",
+    "Research_OneNotes/Research 2026/Software Development.one",
+    "Research_2025/Agents/1-21-25 Agent Design - Deepseek R1.md",
+    "Research_2025/Agents/03-31-25 On the Biology of a Large Language Model.md",
+    "Research_2024/Frameworks/Source.md",
+    "Research_2024/Frameworks/Data Prep.md",
+    "Research_2024/Frameworks/End to End.md",
+    "Research_2024/Frameworks/Balancing Datasets.md",
+    "Research_2024/Frameworks/Spot - integrated RL.md",
+    "Research_2024/Frameworks/Internet Research Assistant.md",
+    "Research_2024/Frameworks/Meta - Touch.md",
+    "Research_2024/Frameworks/Your own search engine.md",
+    "Research_2024/Frameworks/Nvidia Isaac Sim.md",
+    "Research_2025/Home/GPT upgrades tracker.md",
+    "Images_2024/Exported image 20260222203213-0.jpeg",
+    "Images_2024/Exported image 20260222203159-8.png",
+    "Images_2024/Exported image 20260222203158-7.jpeg",
+    "Images_2024/Exported image 20260222203157-6.jpeg",
+    "Images_2024/Exported image 20260222203156-5.jpeg",
+    "Images_2024/Exported image 20260222203153-4.jpeg",
+    "Images_2024/Exported image 20260222203151-3.jpeg",
+    "Images_2024/Exported image 20260222203150-2.jpeg",
+    "Images_2024/Exported image 20260222203150-1.jpeg",
+    "Images_2024/Exported image 20260222203149-0.png",
+    "Research_2024/VLM/Real time - CNN vs Transformers.md",
+    "Research_2024/VLM/Multi-modal - Florence-2.md",
+    "Research_2024/VLM/Audio Visual - Inflection.md",
+    "Research_2024/VLM/Audio Visual - Seamless.md",
+    "Research_2024/VLM/Text to Image - SORA.md",
+    "Research_2024/VLM/Text to Image - NUWA.md",
+    "Research_2024/VLM/Text to Image - GILL.md",
+    "Research_2024/VLM/Text to Detection.md",
+    "Research_2024/VLM/04-18-24 - OpenEQA - Vision doesn't help VLM's much.md",
+    "Research_2024/VLM/Comparison.md",
+    "Research_2024/VLM/Source.md",
+    "Research_2024/Veritas/Misinformation detection.md",
+    "Research_2024/Veritas/Deepfakes.md",
+    "Untitled.canvas"
   ]
 }

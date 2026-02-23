@@ -1,0 +1,2 @@
+Opportunities in AI: [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+ ![Embedded YouTube video](https://www.youtube.com/embed/5p248yoa3oE?feature=oembed&autoplay=true)

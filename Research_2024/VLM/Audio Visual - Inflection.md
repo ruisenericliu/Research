@@ -1,0 +1,1 @@
+[https://www.linkedin.com/posts/kenkuang_this-is-wild-video-translation-with-almost-ugcPost-7121285376962428928-BcgG?utm_source=share&utm_medium=member_ios](https://www.linkedin.com/posts/kenkuang_this-is-wild-video-translation-with-almost-ugcPost-7121285376962428928-BcgG?utm_source=share&utm_medium=member_ios)

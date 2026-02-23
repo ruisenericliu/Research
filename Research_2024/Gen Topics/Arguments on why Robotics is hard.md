@@ -1,0 +1,1 @@
+[https://www.alexirpan.com/2024/07/08/tragedies-of-reality.html](https://www.alexirpan.com/2024/07/08/tragedies-of-reality.html)

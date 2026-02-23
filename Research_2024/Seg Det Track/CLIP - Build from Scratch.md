@@ -1,0 +1,1 @@
+[https://medium.com/correll-lab/building-clip-from-scratch-68f6e42d35f4](https://medium.com/correll-lab/building-clip-from-scratch-68f6e42d35f4)

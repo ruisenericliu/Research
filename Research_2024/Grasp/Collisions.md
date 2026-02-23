@@ -1,0 +1,1 @@
+Collision probability through ellipsoids [https://arxiv.org/pdf/2402.00186](https://arxiv.org/pdf/2402.00186)

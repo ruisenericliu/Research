@@ -1,0 +1,8 @@
+Can't stop the future: Robotics shifting from NeRF to [Gaussian Splatting](https://www.linkedin.com/company/gaussian-splatting/) 🤟
+ 
+Learn more: [https://lnkd.in/excKz3Av](https://lnkd.in/excKz3Av)
+ 
+Amazing work, [Zubair Irshad, PhD](https://www.linkedin.com/in/zubair-irshad/), [Mauro Comi](https://www.linkedin.com/in/mauro-comi/), [Yen Chen Lin](https://www.linkedin.com/in/yen-chen-lin-12b10b95/), [Nick Heppert](https://www.linkedin.com/in/nick-heppert/), [Abhinav Valada](https://www.linkedin.com/in/avalada/), [Rareș Ambruș](https://www.linkedin.com/in/rare%C8%99-ambru%C8%99-b04812125/), [Zsolt Kira](https://www.linkedin.com/in/zsolt-kira-a77a786/) and [Jonathan Tremblay](https://www.linkedin.com/in/jtremb/) ❤️
+ 
+[hashtag#gaussiansplatting](https://www.linkedin.com/feed/hashtag/?keywords=gaussiansplatting&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7257342871802933248) [hashtag#3D](https://www.linkedin.com/feed/hashtag/?keywords=3d&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7257342871802933248) [hashtag#spatialintelligence](https://www.linkedin.com/feed/hashtag/?keywords=spatialintelligence&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7257342871802933248) [hashtag#robotics](https://www.linkedin.com/feed/hashtag/?keywords=robotics&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7257342871802933248) [hashtag#computervision](https://www.linkedin.com/feed/hashtag/?keywords=computervision&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7257342871802933248)
+ \> From \<[https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)\>

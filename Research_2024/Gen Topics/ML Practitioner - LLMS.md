@@ -1,0 +1,15 @@
+As a long time ML/AI practitioner, I often end up having to explain why I haven't been an early adopter of LLM-enhanced programming workflows. To be clear — I’ve done some experiments, and revisit these from time to time -- but have yet to adopt any LLM components into my coding workflow more permanently. Here are a few reasons for this:
+ 
+(1) I don’t think prompt engineering or using an enhanced autocomplete is a rare and valuable skill, nor do I think the techniques are durable and universal; instead, I think they’re quirks of particular models. When certain principles seem general, like “convince the model to take on a persona,” these can be learned and applied instantly.
+ 
+(2) In my day-to-day work, I’m less concerned about being fast in the short-term and more concerned about understanding what my code is doing. Going a little slower to build understanding almost always pays off in the long run. Programmers spend the bulk of dev time debugging and adding behaviors to existing code. In most domains, the leverage you get over a code base from understanding what it’s doing is more valuable than building it fast.
+ 
+(3) There are tricky legal and ethical questions here. It’s not clear to me that the use of eg. Github as a training corpus has been done ethically or will survive legal challenges. To be clear, I’m not predicting it won’t and will therefore go away. I just believe you assume risk when going all-in with any particular vendor or workflow (eg. copilot). I also don’t know how costs might evolve past the honeymoon period and their current too-good-to-be-true price point. I don’t know if public models that can run on consumer hardware will keep the market honest enough to keep prices low, or if tech giants will succeed at abusing their monopoly statuses or friendliness with legislators to choke out this substrate of competition.
+ 
+(4) Any minute I’m spending reading code spat out by a model is a minute I’m not spending producing code to solve problems on demand. This is a danger to my skill base: passive consumption and monitoring is less effective at building and maintaining skills than actively producing it. I’m not arguing that you shouldn’t read code, obviously that’s an important part of building skill and fluency as a programmer. But anyone who has tried to learn a foreign language before showing up in the country in question understands the gap between fluent listening/reading and trying to say something intelligible to a stranger. I’m not yet ready to join the ranks of pilots who are no longer competent enough to intervene when autopilot fails.
+ 
+Are there categories of tasks that I still reach out to LLMs for from time to time? This includes things like generating a bunch of vendor API glue, or getting 90% of the way there when translating from one language or data representation to another. I don't think these are valuable skill-building activities.
+ 
+Benjamin Kamphaus
+
+\> From \<[https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)\>

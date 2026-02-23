@@ -1,0 +1,1 @@
+[https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)

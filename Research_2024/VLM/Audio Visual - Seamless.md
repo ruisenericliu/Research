@@ -1,0 +1,4 @@
+Seamless translations: [https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)  
+[https://huggingface.co/collections/facebook/seamless-communication-6568d486ef451c6ba62c7724](https://huggingface.co/collections/facebook/seamless-communication-6568d486ef451c6ba62c7724)
+ 
+[https://ai.meta.com/research/seamless-communication/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=fair10&utm_content=video](https://ai.meta.com/research/seamless-communication/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=fair10&utm_content=video)

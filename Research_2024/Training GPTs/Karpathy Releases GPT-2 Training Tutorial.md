@@ -1,0 +1,2 @@
+Karpathy Releases GPT-2 Training Tutorial: [Train 124M model in 90 minutes for $20.](https://link.alphasignal.ai/V4sqt5)
+ \> From \<[https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnXcQwLLsClbXVJfdfvtzxGb](https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnXcQwLLsClbXVJfdfvtzxGb)\>

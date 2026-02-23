@@ -1,0 +1,8 @@
+The LVM (large vision model) revolution is coming a little after the LLM (large language model) one, and will transform how we process images. But there’s an important difference between LLMs and LVMs:  
+- Internet text is similar enough to proprietary text documents that an LLM trained on internet text can understand your documents.  
+- But internet images – such as Instagram pictures – contain a lot of pictures of people, pets, landmarks, and everyday objects. Many practical vision applications (manufacturing, aerial imagery, life sciences, etc.) use images that look nothing like most  internet images. So a generic LVM trained on internet images fares poorly at picking out the most salient features of images in many specialized domains.
+ 
+That’s why domain specific LVMs – ones adapted to images of a particular domain (such as semiconductor manufacturing, or pathology) – do much better. At Landing AI, by using ~100K unlabeled images to adapt an LVM to a specific domain, we see significantly improved results, for example where only 10-30% as much labeled data is now needed to achieve a certain level of performance.
+ 
+For companies with large sets of images that look nothing like internet images, I think domain specific LVMs can be a way to unlock considerable value from their data. [Dan Maloney](https://www.linkedin.com/in/danielwilliammaloney/) and I share more details in the video.
+ \> From \<[https://www.linkedin.com/feed/update/urn:li:activity:7137483177714995200/](https://www.linkedin.com/feed/update/urn:li:activity:7137483177714995200/)\>

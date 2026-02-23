@@ -4,24 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "b656f0b2c2e231f0",
-        "type": "tabs",
+        "id": "cb1b5b3b982fabab",
+        "type": "split",
         "children": [
           {
-            "id": "3921dd1abeac28b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research_2025/Agents/Source - Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Source - Agents"
-            }
+            "id": "a691a5dfa2edf135",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9384c292790f572",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "24150bbda3e33d34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c44c5ef2b0ce2752",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/ruisenliu/Repositories/Research",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -156,13 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research_2025/Agents/Source - Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Source - Agents"
+              "title": "Outline"
             }
           }
         ],
@@ -170,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +232,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "3921dd1abeac28b4",
+  "active": "c44c5ef2b0ce2752",
   "lastOpenFiles": [
+    "Research_2025/Agents/Source - Agents.md",
+    "Research_2025/Agents/07-23-25 - Kimi K2 fine-tune on tasks.md",
+    "Research_2025/Agents/10-6-25 SimpleVLA-RL.md",
+    "Research_2025/Agents/09-01-25 SearchInstruct (Data generation).md",
+    "Research_2025/Agents/09-01-25 HANRAG.md",
+    "Research_2025/Agents/07-01-25 Brittleness of AI Agents.md",
+    "Research_2025/Agents/Agent Production Pipeline.md",
+    "Research_2025/Agents/Anthropic Guide.md",
+    "Research_2025/Agents/1-21-25 Agent Design - Deepseek R1.md",
+    "Research_2025/Agents/03-31-25 On the Biology of a Large Language Model.md",
+    "Research_2025/Agents/Finance Bros.md",
+    "Research_2025/Agents/03-31-25 GUI Agents via Deepseek R1.md",
     "Research_OneNotes/Research 2026/OneNote_RecycleBin/Open Notebook.onetoc2",
     "Research_OneNotes/Research 2026/OneNote_RecycleBin/OneNote_DeletedPages.one",
     "Research_OneNotes/Research 2026/OneNote_RecycleBin/Collections.one",
@@ -196,9 +260,6 @@
     "Research_OneNotes/Research 2026/Tutorials.one",
     "Research_OneNotes/Research 2026/Talks + Notes.one",
     "Research_OneNotes/Research 2026/Stanford Courses.one",
-    "Research_OneNotes/Research 2026/Software Development.one",
-    "Research_2025/Agents/1-21-25 Agent Design - Deepseek R1.md",
-    "Research_2025/Agents/03-31-25 On the Biology of a Large Language Model.md",
     "Research_2024/Frameworks/Source.md",
     "Research_2024/Frameworks/Data Prep.md",
     "Research_2024/Frameworks/End to End.md",
@@ -223,15 +284,6 @@
     "Research_2024/VLM/Multi-modal - Florence-2.md",
     "Research_2024/VLM/Audio Visual - Inflection.md",
     "Research_2024/VLM/Audio Visual - Seamless.md",
-    "Research_2024/VLM/Text to Image - SORA.md",
-    "Research_2024/VLM/Text to Image - NUWA.md",
-    "Research_2024/VLM/Text to Image - GILL.md",
-    "Research_2024/VLM/Text to Detection.md",
-    "Research_2024/VLM/04-18-24 - OpenEQA - Vision doesn't help VLM's much.md",
-    "Research_2024/VLM/Comparison.md",
-    "Research_2024/VLM/Source.md",
-    "Research_2024/Veritas/Misinformation detection.md",
-    "Research_2024/Veritas/Deepfakes.md",
     "Untitled.canvas"
   ]
 }
